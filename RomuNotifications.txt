@@ -1,53 +1,104 @@
 [
 {
-   "title":"Do you have youtube 🌟",
-   "description":"Subscribe to our channel 🔔",
-   "request":"null",
-   "type":"official",
-   "ok":"Subscribe",
-   "cancell":"cancel",
-   "ok_toast":"Approve :)",
-   "cancell_toast":"Okay, try later?",
-   "is_web":"https://www.youtube.com/channel/UC50f4bEftO8bfzTQIqhhBtg",
-   "id":"00000101",
-   "cancelable":"false"
-},
-{
-   "title":"Do you have Telegram",
-   "description":"Join telegram for new projects 🤏",
-   "request":"null",
-   "type":"official",
-   "ok":"participate",
-   "cancell":"cancel",
-   "ok_toast":"Mwala 👍",
-   "cancell_toast":"",
-   "is_web":"https://t.me/romumods",
-   "id":"000014",
-   "cancelable":"false"
-},
-{
-   "title":"Watch RMWhatsApp Video?",
-   "description":"Follow this link for more",
-   "request":"null",
-   "type":"official",
-   "ok":"watch",
-   "cancell":"cancel",
-   "ok_toast":"",
-   "cancell_toast":"",
-   "is_web":"https://youtu.be/T1QtNQr2v24",
-   "id":"000Aph1",
-   "cancelable":"false"
-},
-{
-   "title":"Follow developer",
-   "description":"Follow me on instagram for latest updates of RMWa 🔈",
+   "title":"Follow me on Instagram",
+   "description":"Do you use instagram? =)",
    "request":"null",
    "type":"official",
    "ok":"Follow",
    "cancell":"Cancel",
-   "ok_toast":"Thanks ^-^",
-   "cancell_toast":"Later",
-   "is_web":"https://instagram.com/romu1k",
-   "id":"0000@3",
+   "ok_toast":"itsanana =)",
+   "cancell_toast":"Okay, later?",
+   "is_web":"https://Instagram.com/romu1k",
+   "id":"insta_",
    "cancelable":"false"
+},
+{
+   "title":"Join Splash Platform on WhatsApp",
+   "description":"Enjoy memes, quotes and funny clips =)",
+   "request":"null",
+   "type":"official",
+   "ok":"Join",
+   "cancell":"later",
+   "ok_toast":"Enjoy =)",
+   "cancell_toast":"Okay, later?",
+   "is_web":"https://wa.me/265886949444?text=Hey%20Splash%20__%20recommended%20me%20to%20join%20the%20Entertainment%20platform%20my%20name%20is",
+   "id":"insta2_",
+   "cancelable":"false"
+},
+{
+   "title":"Follow me on Instagram",
+   "description":"Do you use instagram? =)",
+   "request":"null",
+   "type":"official",
+   "ok":"Follow",
+   "cancell":"Cancel",
+   "ok_toast":"itsanana =)",
+   "cancell_toast":"Okay, later?",
+   "is_web":"https://Instagram.com/romu1k",
+   "id":"insta3_",
+   "cancelable":"false"
+},
+{
+   "title":"Join Splash Platform on WhatsApp",
+   "description":"Enjoy memes, quotes and funny clips =)",
+   "request":"null",
+   "type":"official",
+   "ok":"Join",
+   "cancell":"later",
+   "ok_toast":"Enjoy =)",
+   "cancell_toast":"Okay, later?",
+   "is_web":"https://wa.me/265886949444?text=Hey%20Splash%20__%20recommended%20me%20to%20join%20the%20Entertainment%20platform%20my%20name%20is",
+   "id":"insta4_",
+   "cancelable":"false"
+},
+{
+   "title":"Follow me on Instagram",
+   "description":"Do you use instagram? =)",
+   "request":"null",
+   "type":"official",
+   "ok":"Follow",
+   "cancell":"Cancel",
+   "ok_toast":"itsanana =)",
+   "cancell_toast":"Okay, later?",
+   "is_web":"https://Instagram.com/romu1k",
+   "id":"insta5_",
+   "cancelable":"false"
+},
+{
+   "title":"Follow me on Instagram",
+   "description":"Do you use instagram? =)",
+   "request":"null",
+   "type":"official",
+   "ok":"Follow",
+   "cancell":"Cancel",
+   "ok_toast":"itsanana =)",
+   "cancell_toast":"Okay, later?",
+   "is_web":"https://Instagram.com/romu1k",
+   "id":"insta6_",
+   "cancelable":"false"
+},
+{
+
+   "title":"Follow me on Instagram",
+
+   "description":"Do you use instagram? =)",
+
+   "request":"null",
+
+   "type":"official",
+
+   "ok":"Follow",
+
+   "cancell":"Cancel",
+
+   "ok_toast":"itsanana =)",
+
+   "cancell_toast":"Okay, later?",
+
+   "is_web":"https://Instagram.com/romu1k",
+
+   "id":"insta_",
+
+   "cancelable":"false"
+
 }]
