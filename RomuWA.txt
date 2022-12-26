@@ -1,12 +1,12 @@
 {
- "version":"9.05b4",
+ "version":"9.25",
  "expire881":"1000",
  "expire870":"1000",
  "store":"1",
  "rewards":"",
- "title":"Join our WhatsApp platform 🛠️",
- "description":"You're on WhatsApp and haven't  joined SPLASH CREATIVES Then you missing a lot. Free Entertainment Memes, Quotes, Job Vacancies, Current Affairs, Novels, Music promos, Sports News, Business Advertisements, and many many more. press the join button.",
- "download":"https://wa.me/265886949444?text=Hey%20i%20want%20to%20join%20the%20entertainment%20my%20name%20is",
+ "title":"Splash WhatsApp Update 🛠️",
+ "description":"Make sure you update to the latest version.",
+ "download":"https://t.me/splashwc",
  "users_premium":"",
  "force":"true"
 }
