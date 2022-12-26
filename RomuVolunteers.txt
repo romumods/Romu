@@ -1,8 +1,4 @@
 [{#n
-   "name":"Robert",
-   "number":"https://wa.me/+265885321892"
-},
-{
-   "name":"Romu2",
-   "number":"https://wa.me/+265998541522"
+   "name":"Splash",
+   "number":"https://wa.me/+265886949444"
 }]
