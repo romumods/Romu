@@ -13,15 +13,15 @@
    "cancelable":"false"
 },
 {
-   "title":"Join Splash Platform on WhatsApp",
-   "description":"Enjoy memes, quotes and funny clips =)",
+   "title":"Make money online",
+   "description":"Press join to create your own account now =)",
    "request":"null",
    "type":"official",
    "ok":"Join",
    "cancell":"later",
    "ok_toast":"Enjoy =)",
    "cancell_toast":"Okay, later?",
-   "is_web":"https://wa.me/265886949444?text=Hey%20Splash%20__%20recommended%20me%20to%20join%20the%20Entertainment%20platform%20my%20name%20is",
+   "is_web":"https://stateearn.com/register.php?ref=splashwc",
    "id":"insta2_",
    "cancelable":"false"
 },
@@ -65,15 +65,15 @@
    "cancelable":"false"
 },
 {
-   "title":"Follow me on Instagram",
-   "description":"Do you use instagram? =)",
+   "title":"Make money online",
+   "description":"Press join to create your own account now =)",
    "request":"null",
    "type":"official",
-   "ok":"Follow",
-   "cancell":"Cancel",
-   "ok_toast":"itsanana =)",
+   "ok":"Join",
+   "cancell":"later",
+   "ok_toast":"Enjoy =)",
    "cancell_toast":"Okay, later?",
-   "is_web":"https://Instagram.com/romu1k",
+   "is_web":"https://stateearn.com/register.php?ref=splashwc",
    "id":"insta6_",
    "cancelable":"false"
 },
